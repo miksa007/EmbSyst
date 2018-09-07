@@ -6,7 +6,7 @@ Linux asennusVmWare-ympäristöön
 
 3. "Create new virtual machine" ja "typical"
 
-4. "installer disc image" ja valitaan esimerkiksi yllä mainittu debian-9.1.0-amd64-netinst.iso
+4. "installer disc image" ja valitaan esimerkiksi yllä mainittu linuxmint-19-cinnamon-64bit-v2.iso
 
 5. ...
 
@@ -34,4 +34,14 @@ Linux asennusVmWare-ympäristöön
 
 14. Ja sitten käynnistetään uusi käyttis ja surffaillaan iltasanomien sivuille...
 
+
+
+
+
+
+
+
+
+
+Mika Saari, *mika.saari@tut.fi* date:2018-09
 
