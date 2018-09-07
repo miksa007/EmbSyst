@@ -1,0 +1,37 @@
+Linux asennusVmWare-ympäristöön
+
+1. Lataa Linux -image (linuxmint.com tai joku muu linux paketti)
+
+2. Käynnistä VmWare Workstation Pro (VmWare Player on opiskelijoille ilmainen ja tekee suunnilleen samat asiat)
+
+3. "Create new virtual machine" ja "typical"
+
+4. "installer disc image" ja valitaan esimerkiksi yllä mainittu debian-9.1.0-amd64-netinst.iso
+
+5. ...
+
+6. "Location" - kohtaan
+
+    c:/Temp/virtuaalikone
+    
+    niin ei mene henkilökohtaiselle verkkolevylle. 
+ 
+    (Linux virtuaalikoneen voi sitten myöhemmin kopioida esim. tikulle täältä)
+
+7. "Maximum disk size" kannattaa huomioida...
+
+8. ...
+
+9. ...
+
+10. "Power on this machine" ja ok
+
+11. Linuxin Asennus valintoja runsaasti...
+
+12. ...
+
+13. ...
+
+14. Ja sitten käynnistetään uusi käyttis ja surffaillaan iltasanomien sivuille...
+
+
