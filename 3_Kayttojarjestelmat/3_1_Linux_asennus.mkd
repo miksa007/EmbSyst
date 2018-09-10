@@ -56,7 +56,12 @@ Jatkoa:
 * * /var/log
 
 * Terminaali / Konsoli / Pääte -käyttö
-* * Konsolikomennot ja niiden käyttö (esimerkiksi: man, sudo, su, chmod, chown, chgrp, top, ps, kill, grep, ls, cp, rm, mv, cd, touch, df, fdisk)
+* * Konsolikomennot ja niiden käyttö 
+* * Selvitä komennot: man, sudo, su, chmod, chown, chgrp, top, ps, kill, grep, ls, cp, rm, mv, cd, touch, df, fdisk
+
+
+Väliaika(viikko)
+
 
 * Konsoli: Bash skriptausta 
 * * Alkutoimet: Tutustu wikiin https://linux.fi/wiki/Bash-skriptaus. 
