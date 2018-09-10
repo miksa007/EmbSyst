@@ -42,6 +42,10 @@ Jatkoa:
 * * Calc
 * * Impress
 
+* Käyttöoikeudet
+* * Pääkäyttäja -root
+* * Peruskäyttäjä
+
 * Linux käyttöjärjestelmän ylläpito
 * * Päivitykset
 * * Sovellusten asennus
@@ -50,7 +54,6 @@ Jatkoa:
 * * /home
 * * /etc
 * * /var/log
-
 
 * Terminaali / Konsoli / Pääte -käyttö
 * * Konsolikomennot ja niiden käyttö (esimerkiksi: man, sudo, su, chmod, chown, chgrp, top, ps, kill, grep, ls, cp, rm, mv, cd, touch, df, fdisk)
