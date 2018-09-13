@@ -1,0 +1,47 @@
+#Linux Ohjelmointi
+
+##Bash-ohjelmointi
+* Konsoli: Bash skriptausta 
+* * Alkutoimet: Tutustu wikiin https://linux.fi/wiki/Bash-skriptaus. 
+* * Linuxissa avaa konsoli. 
+* * Tee tiedosto koodi.sh ja avaa se jollain tekstieditorilla.
+
+
+* * Tee ”Hello World ” Skripti tulostamaan käskystä tekstiä.
+* * Lisää tulostukseen tiedoston nimi ja parametrien tulostus.
+* * Lisää tulostukseen päiväyksen ja kellonajan tulostus.
+* * Lisää laskukone, joka kysyy kaksi lukua ja tulostaa niden summan.
+* * Lisää lukuihin tarkastus että ne ovat varmasti positiivisialukuja (jos yritetään syöttää negatiivisia niin ohjelma kysyy luvun uudestaan)
+
+
+* Terminaali: Ajastettujen toimintojen luonti( cron crontab)
+* * Tee skripti.sh
+* * Skripti kirjoittaa tiedostoon pvm:n ja ajan ja kaikki käyttäjät
+* * Tee crontab -ajastus joka suorittaa skripti.sh :n minuutin välein.
+* * Järjestelmän lokista näkee toiminnan onnistumisen: /var/log/syslog
+
+
+##Ohjelmointityökalut
+
+Tavoitteena kokeilla ohjelmointityökalujen toiminta Linuxin konsolissa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mika Saari, *mika.saari@tut.fi* date:2018-09
