@@ -2,7 +2,7 @@
 
 ## Bash-ohjelmointi
 ### Konsoli: Bash skriptausta 
-* Alkutoimet: [Tutustu wikiin](https://linux.fi/wiki/Bash-skriptaus) 
+* Alkutoimet: Tutustu wikiin [https://linux.fi/wiki/Bash-skriptaus](https://linux.fi/wiki/Bash-skriptaus) 
 * Linuxissa avaa konsoli. 
 * Tee tiedosto koodi.sh ja avaa se jollain tekstieditorilla. 
 * Esimerkisi seuraavat ovat tehokkaita työvälineitä: pico, gedit, kate, emacs, vi. 
@@ -21,7 +21,7 @@
 * Järjestelmän lokista näkee toiminnan onnistumisen: /var/log/syslog
 
 
-##Ohjelmointityökalut
+## Ohjelmointityökalut
 
 Tavoitteena kokeilla ohjelmointityökalujen toiminta Linuxin konsolissa.
 
@@ -32,7 +32,7 @@ Tavoitteena kokeilla ohjelmointityökalujen toiminta Linuxin konsolissa.
 * Muuta sovellusta niin, että ./hello.py -komento toimii...
 * Viopesta lisää ohjelmointi harjoituksia
 
-###C++
+### C++
 * Asenna työkalut Linuxiin
 * g++ paketti sisältää kääntäjän ja työkalut 
 * Tee helloworld.cpp ohjelma
@@ -40,7 +40,7 @@ Tavoitteena kokeilla ohjelmointityökalujen toiminta Linuxin konsolissa.
 * Aja sovellus: ./a.out
 *  Viopesta lisää ohjelmointi harjoituksia
 
-###Git
+### Git
 * Asenna työkalut - asennus konsolista.
 * Luo tunnus Github.com palveluun - jos ei vielä ole...
 * Luo repository(projekti) Github:com :ssä

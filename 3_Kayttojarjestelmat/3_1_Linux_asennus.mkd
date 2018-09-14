@@ -1,4 +1,4 @@
-# Linux asennusVmWare-ympäristöön
+# Linux -asennus VmWare-ympäristöön
 
 1. Lataa Linux -image (linuxmint.com tai joku muu linux paketti)
 
@@ -35,7 +35,7 @@
 14. Ja sitten käynnistetään uusi käyttis ja surffaillaan iltasanomien sivuille...
 
 
-##Jatkoa:
+## Jatkoa:
 
 * Libreofficen testaus
 * * Writer
