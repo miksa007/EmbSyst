@@ -1,4 +1,4 @@
-#Linux asennusVmWare-ympäristöön
+# Linux asennusVmWare-ympäristöön
 
 1. Lataa Linux -image (linuxmint.com tai joku muu linux paketti)
 
