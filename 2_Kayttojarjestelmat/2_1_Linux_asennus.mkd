@@ -13,9 +13,9 @@
 6. "Location" - kohtaan
 
     c:/Temp/virtuaalikone
-    
-    niin ei mene henkilökohtaiselle verkkolevylle. 
- 
+
+    niin ei mene henkilökohtaiselle verkkolevylle.
+
     (Linux virtuaalikoneen voi sitten myöhemmin kopioida esim. tikulle täältä)
 
 7. "Maximum disk size" kannattaa huomioida...
@@ -38,33 +38,32 @@
 ## Jatkoa:
 
 * Libreofficen testaus
-* * Writer
-* * Calc
-* * Impress
+  * Writer
+  * Calc
+  * Impress
 
 * Käyttöoikeudet
-* * Pääkäyttäja -root
-* * Peruskäyttäjä
+  * Pääkäyttäja -root
+  * Peruskäyttäjä
 
 * Linux käyttöjärjestelmän ylläpito
-* * Päivitykset
-* * Sovellusten asennus
+  * Päivitykset
+  * Sovellusten asennus
 
 * Linux käyttöjärjestelmän hakemistorakenne
-* * /home
-* * /etc
-* * /var/log
+  * /home
+  * /etc
+  * /var/log
 
 * Terminaali / Konsoli / Pääte -käyttö
-* * Konsolikomennot ja niiden käyttö 
-* * Selvitä komennot: man, sudo, su, chmod, chown, chgrp, top, ps, kill, grep, ls, cp, rm, mv, cd, touch, df, fdisk
+  * Konsolikomennot ja niiden käyttö
+  * Selvitä komennot: man, sudo, su, chmod, chown, chgrp, top, ps, kill, grep, ls, cp, rm, mv, cd, touch, df, fdisk
 
 
 Väliaika(viikko)
 
 
 
- 
 
 
 
@@ -73,5 +72,5 @@ Väliaika(viikko)
 
 
 
-Mika Saari, *mika.saari@tut.fi* date:2018-09
 
+Mika Saari, *mika.saari@tuni.fi* date:2019-08 

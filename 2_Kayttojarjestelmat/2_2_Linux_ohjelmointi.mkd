@@ -1,11 +1,11 @@
 # Linux Ohjelmointi
 
 ## Bash-ohjelmointi
-### Konsoli: Bash skriptausta 
-* Alkutoimet: Tutustu wikiin [https://linux.fi/wiki/Bash-skriptaus](https://linux.fi/wiki/Bash-skriptaus) 
-* Linuxissa avaa konsoli. 
-* Tee tiedosto koodi.sh ja avaa se jollain tekstieditorilla. 
-* Esimerkisi seuraavat ovat tehokkaita työvälineitä: pico, gedit, kate, emacs, vi. 
+### Konsoli: Bash skriptausta
+* Alkutoimet: Tutustu wikiin [https://linux.fi/wiki/Bash-skriptaus](https://linux.fi/wiki/Bash-skriptaus)
+* Linuxissa avaa konsoli.
+* Tee tiedosto koodi.sh ja avaa se jollain tekstieditorilla.
+* Esimerkisi seuraavat ovat tehokkaita työvälineitä: pico, gedit, kate, emacs, vi.
 
 * Tee "Hello World" -Skripti tulostamaan käskystä tekstiä.
 * Lisää tulostukseen tiedoston nimi ja parametrien tulostus.
@@ -34,7 +34,7 @@ Tavoitteena kokeilla ohjelmointityökalujen toiminta Linuxin konsolissa.
 
 ### C++
 * Asenna työkalut Linuxiin
-* g++ paketti sisältää kääntäjän ja työkalut 
+* g++ paketti sisältää kääntäjän ja työkalut
 * Tee helloworld.cpp ohjelma
 * Käännä se: g++ helloworld.cpp → lopputuloksena a.out tiedosto
 * Aja sovellus: ./a.out
@@ -69,4 +69,4 @@ Tavoitteena kokeilla ohjelmointityökalujen toiminta Linuxin konsolissa.
 
 
 
-Mika Saari, *mika.saari@tut.fi* date:2018-09
+Mika Saari, *mika.saari@tuni.fi* date:2019-08
