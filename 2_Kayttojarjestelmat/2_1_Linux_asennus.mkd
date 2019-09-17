@@ -38,27 +38,31 @@
 ## Jatkoa:
 
 * Libreofficen testaus
-  * Writer
-  * Calc
-  * Impress
+    * Writer
+    * Calc
+    * Impress
 
 * Käyttöoikeudet
-  * Pääkäyttäja -root
-  * Peruskäyttäjä
+    * Pääkäyttäja -root
+    * Peruskäyttäjä
 
 * Linux käyttöjärjestelmän ylläpito
-  * Päivitykset
-  * Sovellusten asennus
+    * Päivitykset
+    * Sovellusten asennus
 
 * Linux käyttöjärjestelmän hakemistorakenne
-  * /home
-  * /etc
-  * /var/log
+    * /home
+    * /etc
+    * /var/log
 
 * Terminaali / Konsoli / Pääte -käyttö
-  * Konsolikomennot ja niiden käyttö
-  * Selvitä komennot: man, sudo, su, chmod, chown, chgrp, top, ps, kill, grep, ls, cp, rm, mv, cd, touch, df, fdisk
+    * Konsolikomennot ja niiden käyttö
+    * Selvitä komennot: man, sudo, su, chmod, chown, chgrp, top, ps, kill, grep, ls, cp, rm, mv, cd, touch, df, fdisk
 
+* SSH -yhteys Windows host koneesta Linux quest-koneeseen
+    * Selvitä Linux-koneen ip-osoite. Esimerkiksi komennolla ifconfig
+    * Avaa windows puolelta esim. Putty sovellus. Anna ip osoite Puttu:lle ja avaa yhteys.
+    * Nyt voit ajaa konsolikomentoja etänä linux koneella
 
 Väliaika(viikko)
 
@@ -73,4 +77,4 @@ Väliaika(viikko)
 
 
 
-Mika Saari, *mika.saari@tuni.fi* date:2019-08 
+Mika Saari, *mika.saari@tuni.fi* date:2019-09 
